@@ -59,7 +59,7 @@ def checkIfGameOver():
     elif gameover == '-':
         pass
     else:
-        print(gameover+" wins!!")
+        print(gameover thanks +" wins!!")
         exit()
 # --------------------------------------------- #
 
