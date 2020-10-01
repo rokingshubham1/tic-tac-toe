@@ -7,6 +7,8 @@ scores = {
     'tie' : 0
 }
 
+#shubham jaishwal tic tac toe game 
+
 # --------------------------------------------- #
 def whoHasWon():
     for i in range(3):
@@ -57,7 +59,7 @@ def checkIfGameOver():
     elif gameover == '-':
         pass
     else:
-        print(gameover+" wins!!")
+        print(gameover thanks +" wins!!")
         exit()
 # --------------------------------------------- #
 
