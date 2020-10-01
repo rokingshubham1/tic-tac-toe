@@ -7,6 +7,8 @@ scores = {
     'tie' : 0
 }
 
+#shubham jaishwal tic tac toe game 
+
 # --------------------------------------------- #
 def whoHasWon():
     for i in range(3):
